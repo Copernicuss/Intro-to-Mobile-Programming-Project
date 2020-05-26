@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalenderProject</string>
+    <string name="textview">TextView</string>
+
+</resources>

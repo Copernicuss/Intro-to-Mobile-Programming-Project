@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="presence_online">@android:drawable/presence_online</drawable>
+    <drawable name="checkbox_on_background">@android:drawable/checkbox_on_background</drawable>
+    <drawable name="myplaces">@android:drawable/ic_menu_myplaces</drawable>
+    <drawable name="mylocation">@android:drawable/ic_menu_mylocation</drawable>
+    <drawable name="silent_mode_off">@android:drawable/ic_lock_silent_mode_off</drawable>
+
+</resources>
